@@ -1,5 +1,7 @@
 -Testing merge conflicts 2
 
+Project Team Members: Sammie Shellman
+
 # lab3
 
 Project Team Members:
